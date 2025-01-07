@@ -1,4 +1,4 @@
-# README: Análise de Contatos entre Proteínas
+# README: Análise de Contatos entre Proteínas em Trajetória do GMX 
 
 Este projeto realiza a análise de contatos entre proteínas utilizando scripts para gerar estatísticas de contato e gráficos de calor baseados nesses dados.
 
