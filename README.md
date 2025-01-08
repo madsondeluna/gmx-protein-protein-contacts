@@ -2,7 +2,7 @@
 
 # AVISO 
 
-<i> Este repositório está em fase de testes e pode apresentar instabilidade ou erros. Use com cautela, se encontrar erros, nos reporte.<br>
+<i> Este repositório está em fase de testes e pode apresentar instabilidade ou erros. Use com cautela, se encontrar erros, nos reporte.
 
 <h1></h1>
 
